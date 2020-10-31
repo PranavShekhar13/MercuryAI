@@ -13,7 +13,7 @@
 
 <br/>
 
-Open the following ipynb file the Google Colabrotory Environment for the proper source code and concise documentation of the project :-  [Click Here](https://colab.research.google.com/drive/1LvD_6S9iPQIaL0A2r4JYE28ZsvguBGBy?usp=sharing)
+Open the following ipynb file in the Google Colabrotory Environment for the proper source code and concise documentation of the project :-  [Click Here](https://colab.research.google.com/drive/1LvD_6S9iPQIaL0A2r4JYE28ZsvguBGBy?usp=sharing)
 
 For the documentation and source code on GitHub :- [CLick Here](https://github.com/PranavShekhar13/MercuryAI/blob/main/RealTimeImage%26Video.ipynb)
 
@@ -27,7 +27,7 @@ You will have to download the pretrained weights of the Super Resolution GAN Mod
 
 <br/>
 
-Just follow along the documentation with the source code :- You will also have to upload a low resolution video(3gp or mp4) to the root folder, if you want to test fast, make sure the video is short in duration.
+Just follow along the documentation with the source code :- You will also have to upload a low resolution video(3gp or mp4) to the root folder, if you want to test fast, make sure the video is short in duration for faster results.
 
 For the image enhancement images are already uploaded. I have added comments on each line of the source code so that even a layman can understand.
 
