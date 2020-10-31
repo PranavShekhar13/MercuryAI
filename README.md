@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<img src="img/transfer.png" width="500" >
+<img src="img/transfer.png" width="800" >
 
 ## The following steps need to be followed to run this project in a Google Colabarotory Environment.
 
@@ -38,7 +38,7 @@ For the image enhancement images are already uploaded. I have added comments on 
 ## 1. Real Time Image Enhancement :-
 
  
- <img src="img/enhanced.ong" width="500" >
+ <img src="img/enhanced.png" width="600" >
 
 <br>
 
