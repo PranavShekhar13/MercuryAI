@@ -3,6 +3,8 @@
 <br/>
 <br/>
 
+<img src="img/transfer.png" width="500" >
+
 ## The following steps need to be followed to run this project in a Google Colabarotory Environment.
 
 <br/>
@@ -35,7 +37,15 @@ For the image enhancement images are already uploaded. I have added comments on 
 
 ## 1. Real Time Image Enhancement :-
 
+ 
+ <img src="img/enhanced.ong" width="500" >
 
+<br>
 
+## 2. Real Time Video Enhancement :-
+
+### Low Quality Input :- [Click here](https://youtu.be/znyGpTg7zlw)
+
+### High Quality Output :- [Click here](https://youtu.be/rS8xYWVCM78)
 
 
