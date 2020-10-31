@@ -21,7 +21,7 @@ For the documentation and source code on GitHub :- [CLick Here](https://github.c
 
 <br/>
 
-You will have to download the pretrained weights of the Super Resolution GAN Model, It is provided in the documentation but for reference it is available here :- [Click Here](https://drive.google.com/drive/folders/1eb9VCgNFcuuWWEd8HdysX5-FtIX8guPf?usp=sharin) . Upload this file to the root directory of the colab environment.
+You will have to download the pretrained weights of the Super Resolution GAN Model, It is provided in the documentation but for reference it is available here :- [Click Here](https://drive.google.com/file/d/1lIk_6GCQKYf-zlHTRLp0nTguNtaNGXlD/view?usp=sharing) . Upload this file to the root directory of the colab environment.
 
 # STEP -3
 
